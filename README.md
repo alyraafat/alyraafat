@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alyraafat
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Machine Learning ,Data Science and Full-stack Web Development
+- 🌱 I’m currently learning Machine Learning, Data Science and Full-stack Web Development
 - 📫 How to reach me:
       LinkedIn: https://www.linkedin.com/in/aly-raafat-elkammar-2a54291a7
 <!---
