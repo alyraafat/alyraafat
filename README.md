@@ -8,6 +8,7 @@
 
 ![](https://github.com/alyraafat/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/alyraafat/github-stats/blob/master/generated/languages.svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=alyraafat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
