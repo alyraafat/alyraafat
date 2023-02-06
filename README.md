@@ -8,13 +8,14 @@
 -->
 ![counter](https://envxjdw32qq8oyz.m.pipedream.net)
 
+<h2>Stats</h2>
+
 ![](https://github.com/alyraafat/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/alyraafat/github-stats/blob/master/generated/languages.svg)
-<details>
-      <summary><h2>Trophies</h2></summary>
+
+<h2>Trophies:</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alyraafat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</details>
 
 <details>
       <summary><h2>:hammer_and_wrench: Languages and Tools</h2></summary>
