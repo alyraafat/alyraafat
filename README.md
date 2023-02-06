@@ -3,14 +3,22 @@
 - 🌱 I’m currently learning Machine Learning, Data Science and Full-stack Web Development
 - 📫 How to reach me:
       LinkedIn: https://www.linkedin.com/in/aly-raafat-elkammar-2a54291a7
-
+ <!--    
+![](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761150efd444869bc0293845e29c319fc88347f2fc74&rid=giphy.gif&ct=g)
+-->
 ![counter](https://envxjdw32qq8oyz.m.pipedream.net)
 
 ![](https://github.com/alyraafat/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/alyraafat/github-stats/blob/master/generated/languages.svg)
-[![trophy](https://github-profile-trophy.vercel.app/?username=alyraafat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<details>
+      <summary><h2>Trophies</h2></summary>
 
-### :hammer_and_wrench: Languages and Tools :
+[![trophy](https://github-profile-trophy.vercel.app/?username=alyraafat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</details>
+
+<details>
+      <summary><h2>:hammer_and_wrench: Languages and Tools</h2></summary>
+<br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="100" height="100"/>&nbsp;
@@ -43,7 +51,7 @@
   <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.svg" title="Scikit Learn" **alt="Scikit Learn" width="400"/>&nbsp;
   <img src="https://github.com/SWI-Prolog/plweb-www/blob/master/icons/vector/swipl-logo.svg" title="Prolog" **alt="Prolog" width="200"/>&nbsp;
 </div>
-
+</details>
 <!---
 alyraafat/alyraafat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
