@@ -2,7 +2,9 @@
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Machine Learning, Data Science and Full-stack Web Development
 - 📫 How to reach me:
+      
       LinkedIn: https://www.linkedin.com/in/aly-raafat-elkammar-2a54291a7
+  
  <!--    
 ![](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761150efd444869bc0293845e29c319fc88347f2fc74&rid=giphy.gif&ct=g)
 -->
