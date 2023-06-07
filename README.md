@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alyraafat
+- 👋 Hi, I’m Aly Raafat
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Machine Learning, Data Science and Full-stack Web Development
 - 📫 How to reach me:
