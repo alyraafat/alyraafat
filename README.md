@@ -55,6 +55,7 @@
   <img src="https://github.com/SWI-Prolog/plweb-www/blob/master/icons/vector/swipl-logo.svg" title="Prolog" **alt="Prolog" width="200"/>&nbsp;
 </div>
 </details>
+![Snake animation](https://github.com/alyraafat/alyraafat/blob/output/github-contribution-grid-snake.svg)
 <!---
 alyraafat/alyraafat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
