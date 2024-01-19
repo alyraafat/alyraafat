@@ -4,18 +4,19 @@
 - 📫 How to reach me:
       
       LinkedIn: https://www.linkedin.com/in/aly-raafat-elkammar-2a54291a7
+- want to see all my projects organized in a proper way, ![CLICK HERE](https://github.com/alyraafat/All-Projects.git)
   
  <!--    
 ![](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761150efd444869bc0293845e29c319fc88347f2fc74&rid=giphy.gif&ct=g)
 -->
 ![counter](https://envxjdw32qq8oyz.m.pipedream.net)
 
-<h2>Stats</h2>
+# Stats
 
 ![](https://github.com/alyraafat/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/alyraafat/github-stats/blob/master/generated/languages.svg)
 
-<h2>Trophies:</h2>
+# Trophies:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alyraafat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
