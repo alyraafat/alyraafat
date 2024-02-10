@@ -52,9 +52,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" **alt="Numpy" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="Opencv" **alt="Opencv" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" **alt="Anaconda" width="100" height="100"/>&nbsp;
-  <br/>
-  <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.svg" title="Scikit Learn" **alt="Scikit Learn" width="400"/>&nbsp;
-  <img src="https://github.com/SWI-Prolog/plweb-www/blob/master/icons/vector/swipl-logo.svg" title="Prolog" **alt="Prolog" width="200"/>&nbsp;
+  <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.svg" title="Scikit Learn" **alt="Scikit Learn" width="200"/>&nbsp;
+ <!-- 
+<img src="https://github.com/SWI-Prolog/plweb-www/blob/master/icons/vector/swipl-logo.svg" title="Prolog" **alt="Prolog" width="200"/>&nbsp; 
+-->
 </div>
 </details>
 <!---
