@@ -21,7 +21,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=alyraafat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <details>
-      <summary><h2>:hammer_and_wrench: Languages and Tools</h2></summary>
+      <summary><h1>:hammer_and_wrench: Languages and Tools</h1></summary>
 <br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="100" height="100"/>&nbsp;
@@ -62,3 +62,6 @@
 alyraafat/alyraafat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+# Snake Eating My Contribution Graph
+![snake gif](https://github.com/alyraafat/alyraafat/blob/output/github-contribution-grid-snake.gif)
