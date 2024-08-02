@@ -1,15 +1,32 @@
+# About Me
+
 - 👋 Hi, I’m Aly Raafat
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Machine Learning, Data Science and Full-stack Web Development
+- 🌱 I’m currently learning Machine Learning, Data Science, and Full-stack Web Development
+<!--
 - 📫 How to reach me:
-      
-      LinkedIn: https://www.linkedin.com/in/aly-raafat-elkammar-2a54291a7
+<a href="https://www.linkedin.com/in/aly-raafat-elkammar-2a54291a7">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 100px;"/>
+</a>
+-->
 - want to see all my projects organized in a proper way, ![CLICK HERE](https://github.com/alyraafat/All-Projects.git)
+
+![counter](https://envxjdw32qq8oyz.m.pipedream.net)
+
   
+## Contact Me
+
+<div style="display: flex; align-items: center;">
+  <a href="https://www.linkedin.com/in/aly-raafat-elkammar-2a54291a7" target="_blank" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 120px; vertical-align: middle;margin-right: 30px;"/>
+  </a>
+  <a href="mailto:alewaraafat@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" style="width: 30px; vertical-align: middle;"/>
+  </a>
+</div>
  <!--    
 ![](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761150efd444869bc0293845e29c319fc88347f2fc74&rid=giphy.gif&ct=g)
 -->
-![counter](https://envxjdw32qq8oyz.m.pipedream.net)
 
 # Stats
 
@@ -53,11 +70,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="Opencv" **alt="Opencv" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" **alt="Anaconda" width="100" height="100"/>&nbsp;
   <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.svg" title="Scikit Learn" **alt="Scikit Learn" width="200"/>&nbsp;
- <!-- 
-<img src="https://github.com/SWI-Prolog/plweb-www/blob/master/icons/vector/swipl-logo.svg" title="Prolog" **alt="Prolog" width="200"/>&nbsp; 
--->
 </div>
+
+
 </details>
+
 <!---
 alyraafat/alyraafat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
