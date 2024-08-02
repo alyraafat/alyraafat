@@ -3,13 +3,14 @@
 - 👋 Hi, I’m Aly Raafat
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Machine Learning, Data Science, and Full-stack Web Development
+- want to see all my projects organized in a proper way, ![CLICK HERE](https://github.com/alyraafat/All-Projects.git)
+
 <!--
 - 📫 How to reach me:
 <a href="https://www.linkedin.com/in/aly-raafat-elkammar-2a54291a7">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 100px;"/>
 </a>
 -->
-- want to see all my projects organized in a proper way, ![CLICK HERE](https://github.com/alyraafat/All-Projects.git)
 
 ![counter](https://envxjdw32qq8oyz.m.pipedream.net)
 
