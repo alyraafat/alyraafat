@@ -32,7 +32,7 @@ Choose the version that fits your interests:
 
 | Data Science & ML CV | Software Engineering CV |
 |:---------------------:|:-----------------------:|
-| [![Data Science CV](https://drive.google.com/uc?export=view&id=1aP2NQF5p-A05XEIHBaG6Z44qSEQ4V4-K)](https://drive.google.com/file/d/1aP2NQF5p-A05XEIHBaG6Z44qSEQ4V4-K/view?usp=sharing) | [![Software Eng. CV](https://drive.google.com/uc?export=view&id=18EJfenYu-5k3_Z_LUxc9FQBciDhS_9X_)](https://drive.google.com/file/d/18EJfenYu-5k3_Z_LUxc9FQBciDhS_9X_/view?usp=sharing) |
+| [![Data Science CV](https://drive.google.com/file/d/1GdWvwksxNqvIT60lTPkaajRL-WhzMPEB/view?usp=sharing)](https://drive.google.com/file/d/1GdWvwksxNqvIT60lTPkaajRL-WhzMPEB/view?usp=sharing) | [![Software Eng. CV](https://drive.google.com/file/d/10O5uQO1xQx13UpRWRlufZvXy6myr3-bV/view?usp=sharing)](https://drive.google.com/file/d/10O5uQO1xQx13UpRWRlufZvXy6myr3-bV/view?usp=sharing) |
 
  <!--    
 ![](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761150efd444869bc0293845e29c319fc88347f2fc74&rid=giphy.gif&ct=g)
