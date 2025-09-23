@@ -30,9 +30,9 @@
 
 Choose the version that fits your interests:
 
-| Data Science & ML CV | Software Engineering CV |
-|:---------------------:|:-----------------------:|
-| [![Data Science CV](https://drive.google.com/file/d/1GdWvwksxNqvIT60lTPkaajRL-WhzMPEB/view?usp=sharing)](https://drive.google.com/file/d/1GdWvwksxNqvIT60lTPkaajRL-WhzMPEB/view?usp=sharing) | [![Software Eng. CV](https://drive.google.com/file/d/10O5uQO1xQx13UpRWRlufZvXy6myr3-bV/view?usp=sharing)](https://drive.google.com/file/d/10O5uQO1xQx13UpRWRlufZvXy6myr3-bV/view?usp=sharing) |
+| Data Science & ML CV | Software Engineering CV | ML + SE CV |
+|:---------------------:|:-----------------------:|:-----------------------:|
+| [![Data Science CV](https://drive.google.com/file/d/1MNA9Kbio0IQYUPBcgXHjNHS4Z0seaMpD/view?usp=sharing)](https://drive.google.com/file/d/1MNA9Kbio0IQYUPBcgXHjNHS4Z0seaMpD/view?usp=sharing) | [![Software Eng. CV](https://drive.google.com/file/d/14pnjJFcvzw8AcjJrNKLgqes79nrvCJ9d/view?usp=sharing)](https://drive.google.com/file/d/14pnjJFcvzw8AcjJrNKLgqes79nrvCJ9d/view?usp=sharing) | [![ML + SE CV](https://drive.google.com/file/d/1nE1HMqjDLmgLI_tY9xI_BZfUlfrqLlpR/view?usp=sharing)](https://drive.google.com/file/d/1nE1HMqjDLmgLI_tY9xI_BZfUlfrqLlpR/view?usp=sharing) |
 
  <!--    
 ![](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761150efd444869bc0293845e29c319fc88347f2fc74&rid=giphy.gif&ct=g)
